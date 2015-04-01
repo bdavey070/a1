@@ -1,0 +1,13 @@
+a1.c:19:  Extra space before [  [whitespace/braces] [5]
+a1.c:20:  Extra space before [  [whitespace/braces] [5]
+a1.c:95:  Missing space before {  [whitespace/braces] [5]
+a1.c:97:  Missing space before {  [whitespace/braces] [5]
+a1.c:117:  Missing space before {  [whitespace/braces] [5]
+a1.c:186:  Missing space before {  [whitespace/braces] [5]
+a1.c:205:  Missing space before {  [whitespace/braces] [5]
+a1.c:209:  Missing space before {  [whitespace/braces] [5]
+a1.c:225:  Missing space before {  [whitespace/braces] [5]
+Done processing a1.c
+Category 'whitespace/braces' errors found: 9
+Total errors found: 9
+LOC: 304
